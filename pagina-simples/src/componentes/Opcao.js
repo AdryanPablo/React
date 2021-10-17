@@ -1,6 +1,6 @@
 function Opcao(props) {
     return (
-        <div class='opcao'>
+        <div className='opcao'>
             Opção {props.numero}
         </div>
     )

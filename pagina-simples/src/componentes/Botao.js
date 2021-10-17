@@ -1,6 +1,6 @@
 function Botao(props) {
     return (
-        <div class='botao'>Botão {props.numero}</div>
+        <div className='botao'>Botão {props.numero}</div>
     )
 }
 
